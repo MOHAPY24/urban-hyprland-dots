@@ -98,11 +98,6 @@ source $ZSH/oh-my-zsh.sh
 # the $ZSH_CUSTOM folder, with .zsh extension. Examples:
 # - $ZSH_CUSTOM/aliases.zsh
 # - $ZSH_CUSTOM/macos.zsh
-# For a full list of active aliases, run `alias`.
-#
-# Example aliases
-# alias zshconfig="mate ~/.zshrc"
-# alias ohmyzsh="mate ~/.oh-my-zsh"
 alias lsa="ls -a"
 alias lsl="ls -l"
 alias lsal="ls -a -l"
@@ -113,6 +108,3 @@ alias goto="cd"
 alias gotoconfig="cd ~/.config"
 alias clr="clear"
 alias cls="clear"
-
-alias sshtohomelab='ssh usr@192.168.70.25'
-alias gotocoding='cd ~/Desktop/coding'
