@@ -3,6 +3,7 @@ My dotfiles for my 'Urban' config
 
 ![Example](ricesc.png)
 
+Credits to the waybar creator: https://github.com/TheFrankyDoll for his Win-10 waybar :)
 
 Requirements:
 * Kitty
