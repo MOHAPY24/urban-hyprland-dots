@@ -1,0 +1,13 @@
+/*
+ * ==========================================================
+ *  ⚠️  DO NOT USE THIS CONFIG OUTSIDE OF NIX / NIXOS  ⚠️
+ *  It contains store paths that WILL NOT WORK elsewhere.
+ * ==========================================================
+ */
+
+@theme "/nix/store/83ikcsmdi6hg1djz031l2p6idkd43931-rofi-1.7.9+wayland1/share/rofi/themes/gruvbox-dark-soft.rasi"
+
+/*
+ * IF USING A NON-NIX DISTRO, UNCOMMENT THE NEXT LINE:
+ */
+// @theme "/usr/share/rofi/themes/gruvbox-dark-soft.rasi"
