@@ -10,7 +10,7 @@ Requirements:
 * Hyprpaper
 * Hyprland (ofc)
 * Waybar
-* Wofi
+* Rofi
 * Zsh
 * OhMyZsh
 * NixOS (Optional, alot of this stuff is tuned for it)
